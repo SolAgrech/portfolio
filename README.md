@@ -6,7 +6,8 @@ Hi! I'm Solange Agrech, a data analyst focused on transforming data into decisio
 
 ## 📊 Diving Logbook 
 
-🔗 [View Interactive Dashboard]([https://app.powerbi.com/view?r=TU_LINK_AQUI](https://app.powerbi.com/reportEmbed?reportId=1f8d42ba-9884-4e39-a0e9-d03cc09a8b77&autoAuth=true&ctid=2e13e30b-c57a-4907-870f-4a703ed6dbc4)) 
+🔗 [View Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=1f8d42ba-9884-4e39-a0e9-d03cc09a8b77&autoAuth=true&ctid=2e13e30b-c57a-4907-870f-4a703ed6dbc4)
+
 
 ![Diving Logbook Preview](dashboard-preview.png)
 
