@@ -28,5 +28,5 @@ Hi! I'm Solange Agrech, a data analyst focused on transforming data into decisio
 ## 📫 Contact
 
 📧 solange@deepdatadive.info  
-🌐 [LinkedIn](https://linkedin.com/in/solangeagrech)  
-💼 [Fiverr](https://fiverr.com/solangeagrech)
+🌐 [LinkedIn](www.linkedin.com/in/solangeagrech)  
+💼 [Fiverr](https://www.fiverr.com/solangeagrech/buying?source=avatar_menu_profile)
